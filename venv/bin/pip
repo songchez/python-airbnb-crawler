@@ -1,4 +1,4 @@
-#!/Users/sanchezna/python-airbnb-crawler/airbnb/bin/python3.11
+#!/Users/sanchezna/python-airbnb-crawler/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
